@@ -1,0 +1,6 @@
+C:\EPAM\Task_7_ErrorsAndLogs_1.1\VirtualFileSystem\bin\Debug\VirtualFileSystem.exe.config
+C:\EPAM\Task_7_ErrorsAndLogs_1.1\VirtualFileSystem\obj\Debug\VirtualFileSystem.csprojResolveAssemblyReference.cache
+C:\EPAM\Task_7_ErrorsAndLogs_1.1\VirtualFileSystem\bin\Debug\VirtualFileSystem.exe
+C:\EPAM\Task_7_ErrorsAndLogs_1.1\VirtualFileSystem\bin\Debug\VirtualFileSystem.pdb
+C:\EPAM\Task_7_ErrorsAndLogs_1.1\VirtualFileSystem\obj\Debug\VirtualFileSystem.exe
+C:\EPAM\Task_7_ErrorsAndLogs_1.1\VirtualFileSystem\obj\Debug\VirtualFileSystem.pdb

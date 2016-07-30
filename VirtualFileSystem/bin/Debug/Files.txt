@@ -1,0 +1,1 @@
+boot.ini;c:;file.txt;c:\f5\f1\f2\f3\f4;
